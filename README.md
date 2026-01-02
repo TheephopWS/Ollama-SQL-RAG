@@ -2,15 +2,6 @@
 
 A powerful local RAG (Retrieval-Augmented Generation) AI agent that enables natural language querying of SQL databases using LangChain and Ollama.
 
-## Features
-
-- 🤖 Natural language to SQL query conversion
-- 📊 Intelligent database schema understanding
-- 🔍 Context-aware query generation
-- 💬 Conversational interface
-- 🛡️ Secure local processing with Ollama
-- 📈 Query result analysis and insights
-
 ## Architecture
 
 ```
